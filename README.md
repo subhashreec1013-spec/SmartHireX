@@ -47,25 +47,25 @@ Displays results using interactive tables and charts.
 
 ## Home Interface
 
-![Home](screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 ---
 
 ## Upload Job Description & Resumes
 
-![Upload](screenshots/upload_resumes.png)
+![Upload](assets/screenshots/upload_resumes.png)
 
 ---
 
 ## Candidate Ranking Results
 
-![Ranking](screenshots/ranking_results.png)
+![Ranking](assets/screenshots/ranking_results.png)
 
 ---
 
 ## Final Score Comparison Chart
 
-![Chart](screenshots/score_chart.png)
+![Chart](assets/screenshots/score_chart.png)
 
 ---
 
