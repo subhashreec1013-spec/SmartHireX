@@ -101,7 +101,7 @@ Pandas
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/SmartHireX.git
+git clone https://github.com/subhashreec1013/SmartHireX.git
 ```
 
 Go to project folder
