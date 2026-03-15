@@ -1,0 +1,31 @@
+Role: AI/ML Engineer – NLP
+Company: SmartHire Technologies
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Deep Learning
+NLP
+Scikit-learn
+TensorFlow or PyTorch
+
+Data Structures & Algorithms
+
+REST API / Flask
+
+Git
+
+Responsibilities:
+
+Build intelligent resume screening models
+
+Develop NLP pipelines
+
+Implement semantic similarity using transformers
+
+Optimize model accuracy
+
+Deploy ML models to production
+
+Experience: 0–2 years or strong projects
