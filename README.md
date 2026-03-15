@@ -94,27 +94,7 @@ Pandas
 
 ---
 
-# Project Structure
-
-```
-SmartHireX
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── core
-│   ├── resume_parser.py
-│   ├── preprocessing.py
-│
-├── semantic_matching.py
-├── skill_gap.py
-├── scoring.py
-│
-├── screenshots
-```
-
----
+# Project Structu
 
 # How to Run the Project
 
@@ -161,5 +141,5 @@ http://localhost:8501
 
 # Author
 
-Subha Shree  
-B.Tech Artificial Intelligence & Machine Learning
+Subha Shree C
+B.Tech CSE w/s Artificial Intelligence & Machine Learning
